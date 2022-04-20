@@ -40,7 +40,7 @@ rtmp://59.124.75.153/sat/tv701
 #EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/VL-Sports-Logo.jpg" group-title="港澳台",纬来育乐-3
 rtmp://59.124.75.153:1935/sat/tv701
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="体育",纬来体育
-rtmp://161.202.204.248/sat/tv721
+rtmp://59.124.75.150/sat/tv721
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="体育",纬来体育-1
 rtmp://161.202.204.248:1935/sat/tv721
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="体育",纬来体育-2
